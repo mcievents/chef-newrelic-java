@@ -1,4 +1,4 @@
-default['newrelic']['java']['agent_version'] = '2.21.0'
+default['newrelic']['java']['agent_version'] = '3.31.1'
 default['newrelic']['java']['agent_path'] = '/opt/newrelic'
 
 default['newrelic']['java']['enabled'] = true
